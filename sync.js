@@ -1,3 +1,5 @@
+
+
 'use strict';
 var ndjsStaticVersion = "sync-1"
   , nszgojl = {}
