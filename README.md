@@ -15,3 +15,4 @@ Some Notes
 - You can manipulate most of the data
 - The ipr is a mouse movement check, ive seen others use ghost cursor to replicate this data
 - Just wanted to drop this for others in need of it
+- THIS IS NOT A WORKING GEN AND I AM NOT RESPONSIBLE FOR HOW YOU USE THIS CODE
